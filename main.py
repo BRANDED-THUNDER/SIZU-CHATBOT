@@ -57,8 +57,9 @@ async def start(client, message):
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ OWNER = @ll_THUNDERXD_ll
-┣★ SUPPORT_CHANNEL = @Friends_chatting_Group_Sigma
+┣★ 𝐎𝐖𝐍𝐄𝐑   [OWNER](https://t.me/ll_THUNDERXD_ll)
+┣★ 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 [GROUP](https://t.me/Friends_chatting_Group_Sigma)
+┣★ 𝐒𝐎𝐔𝐑𝐂𝐄  [ REPO](https://github.com/BRANDED-THUNDER/SIZU-CHATBOT)
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
 
