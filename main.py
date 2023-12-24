@@ -57,8 +57,8 @@ async def start(client, message):
 ɪ ᴀᴍ ᴄʜᴀᴛʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs ...
 
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ OWNER = getenv("OWNER", "https://t.me/ll_THUNDERXD_ll")
-┣★ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Friends_chatting_Group_Sigma")
+┣★ OWNER = @ll_THUNDERXD_ll
+┣★ SUPPORT_CHANNEL = @Friends_chatting_Group_Sigma
 ┗━━━━━━━━━━━━━━━━━┛
 """, reply_markup=InlineKeyboardMarkup(buttons))
 
